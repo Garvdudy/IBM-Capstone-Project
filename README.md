@@ -4,7 +4,7 @@
 This capstone project explores global **technology and developer trends** using real survey data. I analyzed how programming languages, databases, and visualization tools are evolving across industries — helping identify which technologies are shaping the future of analytics and AI.
 
 ## Project Methodology
-- **Data Collection & Preparation:** Used the `survey_data_updated.csv` dataset. Cleaned and transformed the data using **Python** and **Excel**, removing duplicates, handling missing values, and splitting multi-value fields.  
+- **Data Collection & Preparation:** Used the `survey_data_updated.csv` dataset. Cleaned and transformed the data using **Excel**, removing duplicates, handling missing values, and splitting multi-value fields.  
 - **Dashboard Creation:** Designed three dashboards in **IBM Cognos Analytics** —  
   1️*Current Technology Usage*  
   2️*Future Technology Trends*  
@@ -13,7 +13,7 @@ This capstone project explores global **technology and developer trends** using 
 
 ## Key Learnings
 - Gained **hands-on experience** in the **end-to-end data analytics workflow** — from raw data cleaning to dashboard storytelling.  
-- Improved my ability to use **Python, Excel, and IBM Cognos Analytics** to deliver clear, insight-driven visualizations.  
+- Improved my ability to use **Excel, and IBM Cognos Analytics** to deliver clear, insight-driven visualizations.  
 - Learned how to **structure analytical reports** that connect technical data with business insights.  
 - Developed strong **data interpretation and presentation** skills — turning survey data into a meaningful story.
 
@@ -23,7 +23,8 @@ This capstone project explores global **technology and developer trends** using 
 - **Developers:** Most respondents are aged 18–34 with strong educational backgrounds, driving innovation and cloud adoption.
 
 ## Tools & Technologies
-- Python  
+- Python
+- SQL
 - Excel  
 - IBM Cognos Analytics  
 - Data Visualization & Dashboard Design  
