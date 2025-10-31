@@ -24,8 +24,8 @@ This capstone project explores global **technology and developer trends** using 
 
 ## Tools & Technologies
 - Python
-- SQL
-- Excel  
+- Excel
+- SQL 
 - IBM Cognos Analytics  
 - Data Visualization & Dashboard Design  
 
